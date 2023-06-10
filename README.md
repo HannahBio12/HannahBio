@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hanna Thalia Bio</title>
+ Hanna Thalia Bio
   
 </body>
 </html>
