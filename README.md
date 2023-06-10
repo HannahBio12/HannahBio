@@ -12,5 +12,10 @@
       text-align: center;
       padding: 20px;
     }
-
+  </style>
+</head>
+<body>
+  <h1>Hanna Thalia Bio</h1>
+</body>
 </html>
+
